@@ -1,5 +1,5 @@
 # Info6205_203
-Genetic Algorithm project - Pacman
+
 Pac-man exists in a rectangular space of 10×10 grids. There are 40 beans and 10 bombs which are randomly placed in the 100 grids.
 When Pac-man is born, it randomly appears in an arbitrary square. And what it needs to do is to use its own strategy to eat beans.
 There are only 200 steps in total. If the Pac-Man eats a bean, it will get 10 points. If the Pac-Man eats a bomb, it will lose 3 points. 
